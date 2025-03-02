@@ -1,13 +1,11 @@
 # RGB Grid Game
 
-An interactive 5x5 grid game built with HTML, CSS, and JavaScript/TypeScript that demonstrates color sequence management.
+An interactive 5x5  game built with HTML, CSS, and JavaScript/TypeScript that demonstrates color sequence management.
 
 ## Features
 
 - 5x5 interactive grid layout
 - Dynamic color sequence (Red → Green → Blue)
-- Smooth color transitions
-- TypeScript support
 - Responsive design
 
 ## How to Play
@@ -22,17 +20,5 @@ An interactive 5x5 grid game built with HTML, CSS, and JavaScript/TypeScript tha
 
 - HTML5
 - CSS3 (Grid Layout)
-- JavaScript/TypeScript
-- CSS Transitions
+- JavaScript
 
-## Setup
-
-1. Clone the repository
-2. Open index.html in a browser
-3. Start clicking boxes to play!
-
-## Development
-
-To work with TypeScript:
-1. Install TypeScript: `npm install -g typescript`
-2. Compile: `tsc script.ts` # RGB Grid Game - Interactive Color Sequence Game
